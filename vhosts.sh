@@ -15,4 +15,5 @@ for ligne in tableau
   if (status == 1)
     cp template chemin
   fi
-sed 
+  sed
+done
